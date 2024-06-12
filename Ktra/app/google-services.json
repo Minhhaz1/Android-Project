@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "315146275106",
+    "project_id": "baitaplon-food",
+    "storage_bucket": "baitaplon-food.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315146275106:android:7c68a5a8fa77638e38fd7b",
+        "android_client_info": {
+          "package_name": "com.example.baitaplon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm8PoISaPbtU6BVBAye4rkpmtR6vsGAys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315146275106:android:85060bd389810cf738fd7b",
+        "android_client_info": {
+          "package_name": "com.example.food"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm8PoISaPbtU6BVBAye4rkpmtR6vsGAys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315146275106:android:a6c5b62b4afac8ee38fd7b",
+        "android_client_info": {
+          "package_name": "com.example.ktra"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm8PoISaPbtU6BVBAye4rkpmtR6vsGAys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
