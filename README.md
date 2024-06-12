@@ -1,9 +1,9 @@
-Công nghệ sử dụng:
+1. Công nghệ sử dụng:
 -	Firebase Realtime Database
 -	Firebase Authentication
 -	Firebase Storage
 -	SQLite
-Các tính năng đã triên khai trong ứng dụng:
+2. Các tính năng đã triên khai trong ứng dụng:
 -	Có thể đăng ký tài khoản mới, đăng nhập vào ứng dụng bằng email và mật khẩu. Người dùng có thể đăng xuất khỏi tài khoản
 -	Người dùng có thể xem thông tin chi tiết của một món ăn bằng cách nhấp vào mục tương ứng.
 -	Người dùng có thể thêm món ăn
